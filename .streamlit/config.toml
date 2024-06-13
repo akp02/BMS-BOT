@@ -1,0 +1,22 @@
+[client]
+showErrorDetails = false
+
+[theme]
+primaryColor = "#0055ff"
+backgroundColor = "black"
+# The preset Streamlit theme that your custom theme inherits from.
+# One of "light" or "dark".
+# base = "dark"
+
+# Primary accent color for interactive elements.
+# primaryColor = "green"
+
+# Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#000000"
+
+# Color used for almost all text.
+# textColor = "white"
+
+# Font family for all text in the app, except code blocks. One of "sans serif",
+# "serif", or "monospace".
+# font = "sans serif"
